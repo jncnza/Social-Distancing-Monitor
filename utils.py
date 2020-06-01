@@ -49,7 +49,7 @@ class FileVideoStream:
         thread.daemon = True
         thread.start()
 
-    def update(self)
+    def update(self):
         """
         Read and decode frames from the video file and maintain the
         queue data structure.
@@ -672,7 +672,7 @@ class FramesContainer:
 
 
 class Calculator:
-    """A calculator for performing operations on the video data."""a
+    """A calculator for performing operations on the video data."""
 
     def __init__(self, corners, targets, canvas_shape):
         """
