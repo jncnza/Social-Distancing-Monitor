@@ -4,17 +4,18 @@ In this project, computer vision techniques are employed to monitor compliance w
 [![Demonstration](/media/video.png)](https://www.youtube.com/watch?v=pm3YnYfA7as)
 [Demonstrative Jupyter notebook](https://github.com/jncnza/social-distance-detector/blob/master/notebook/social_distance_detector.ipynb)
 
-## Dependencies
+## Instalation
+### Installing dependencies
 Tested on Ubuntu 18.04 using python 3.7
-### Neccesary packages
+#### Neccesary packages
 * OpenCV\
         `conda install -c conda-forge opencv`
 * pandas\
         `conda install -c conda-forge pandas`
 * numpy\
         `conda install -c conda-forge numpy`
-### Just for statistical visualizations
-* matplotlib
+#### Just for statistical visualizations
+* matplotlib\
         `conda install -c conda-forge matplotlib`
-* seaborn
+* seaborn\
         `conda install -c conda-forge seaborn`
