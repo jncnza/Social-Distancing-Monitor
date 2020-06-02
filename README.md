@@ -6,14 +6,14 @@ In this project, computer vision techniques are employed to monitor compliance w
 
 ## Dependencies
 Tested on Ubuntu 18.04 using python 3.7
-### Basic packages
+### Neccesary packages
 * OpenCV\
         `conda install -c conda-forge opencv`
 * pandas\
         `conda install -c conda-forge pandas`
 * numpy\
         `conda install -c conda-forge numpy`
-### Needed for plotting statistical graphics
+### Just for statistical visualizations
 * matplotlib
         `conda install -c conda-forge matplotlib`
 * seaborn
