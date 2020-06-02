@@ -3,3 +3,11 @@ Computer vision techniques are employed to monitor compliance with the social di
 
 [![Demonstration](/media/video.png)](https://www.youtube.com/watch?v=pm3YnYfA7as)
 [Demonstrative Jupyter notebook](https://github.com/jncnza/social-distance-detector/blob/master/notebook/social_distance_detector.ipynb)
+
+## Dependencies
+Tested on Ubuntu 18.04 with python 3.7
+* OpenCV
+* pandas
+* numpy
+* matplotlib
+* seaborn
