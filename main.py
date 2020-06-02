@@ -1,5 +1,5 @@
 # Import from local library
-from utils import *
+from detector import *
 
 # Define some constants
 nframe = 0
@@ -99,15 +99,20 @@ while stream.running():
     # if it is the worst frame seen so far, as in the frame with
     # the largest number of persons exposed.
     frames.append(frame)
-    frames.check_if_worst(frame, picture)
+    frames.check_if_worst(frame, picture, canvas)
+
+    # Resize the canvas so that it has the same height as picture
+    canvas = cv2.resize(canvas, (379, 540))
 
     # Make sure that the video is displayed at 25 fps
     while time() - timestamp < 1/fps:
         pass
 
-    # Show the camera view and bird eye view
-    cv2.imshow('Camera view', picture)
-    cv2.imshow('Bird eye view', canvas)
+    # Show the camera view and bird eye view concatenated
+    picture = np.concatenate([picture, canvas], axis=1)
+    cv2.imshow('Social distancing detector', picture)
+
+    # Save the current time
     timestamp = time()
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
@@ -119,4 +124,4 @@ while stream.running():
 cv2.destroyAllWindows()
 
 # Show the duration of the displayed video
-print(f'Seconds played: {timestamp-start}')
+print(f'Seconds played: {timestamp-start:.2f}')
