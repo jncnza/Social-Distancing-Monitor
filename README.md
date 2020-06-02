@@ -7,7 +7,7 @@ Computer vision techniques are employed to monitor compliance with the social di
 ## Dependencies
 Tested on Ubuntu 18.04 using python 3.7
 * OpenCV
-        conda install -c conda-forge opencv
+    conda install -c conda-forge opencv
 * pandas
 * numpy
 * matplotlib
