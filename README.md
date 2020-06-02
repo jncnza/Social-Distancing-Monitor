@@ -9,16 +9,16 @@ Tested on Ubuntu 18.04 using python 3.7
 ### Install dependencies
 #### Neccesary packages
 * OpenCV
-        conda install -c conda-forge opencv
+        `conda install -c conda-forge opencv`
 * pandas
-        conda install -c conda-forge pandas
+        `conda install -c conda-forge pandas`
 * numpy
-        conda install -c conda-forge numpy
+        `conda install -c conda-forge numpy`
 #### Just for statistical visualizations
 * matplotlib
-        conda install -c conda-forge matplotlib
+        `conda install -c conda-forge matplotlib`
 * seaborn
-        conda install -c conda-forge seaborn
+        `conda install -c conda-forge seaborn`
 ### Clone the repository
         git clone https://github.com/jncnza/social-distance-detector/
         cd social-distance-detector/
