@@ -13,6 +13,8 @@ Tested on Ubuntu 18.04 using python 3.7
         `conda install -c conda-forge pandas`
 * numpy\
         `conda install -c conda-forge numpy`
-### For visualization
+### Needed for plotting statistical graphics
 * matplotlib
+        `conda install -c conda-forge matplotlib`
 * seaborn
+        `conda install -c conda-forge seaborn`
