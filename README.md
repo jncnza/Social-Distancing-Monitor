@@ -7,11 +7,11 @@ In this project, computer vision techniques are employed to monitor compliance w
 ## Dependencies
 Tested on Ubuntu 18.04 using python 3.7
 ### Basic packages
-* OpenCV
+* OpenCV\
         `conda install -c conda-forge opencv`
-* pandas
+* pandas\
         `conda install -c conda-forge pandas`
-* numpy
+* numpy\
         `conda install -c conda-forge numpy`
 ### For visualization
 * matplotlib
