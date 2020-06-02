@@ -8,21 +8,21 @@ In this project, computer vision techniques are employed to monitor compliance w
 Tested on Ubuntu 18.04 using python 3.7
 ### Install dependencies
 #### Neccesary packages
-* OpenCV\
-        `conda install -c conda-forge opencv`
-* pandas\
-        `conda install -c conda-forge pandas`
-* numpy\
-        `conda install -c conda-forge numpy`
+* OpenCV
+        conda install -c conda-forge opencv
+* pandas
+        conda install -c conda-forge pandas
+* numpy
+        conda install -c conda-forge numpy
 #### Just for statistical visualizations
-* matplotlib\
-        `conda install -c conda-forge matplotlib`
-* seaborn\
-        `conda install -c conda-forge seaborn`
+* matplotlib
+        conda install -c conda-forge matplotlib
+* seaborn
+        conda install -c conda-forge seaborn
 ### Clone the repository
         git clone https://github.com/jncnza/social-distance-detector/
         cd social-distance-detector/
 ### Get the dataset
-`!wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi`
-`!wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top`
+        !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi
+        !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top
 ### Run the project
