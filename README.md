@@ -38,6 +38,9 @@ Tested on Ubuntu 18.04 using python 3.7
 ### Run the project
         python3 -i main.py
 
+## Disclaimer
+This software is not intended to measure the actual metric distance among people, but rather just serve as an estimation of safe distance compliance.
+
 ## Credits
 [pyimagesearch](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/)\
 [Landing AI](https://landing.ai/landing-ai-creates-an-ai-tool-to-help-customers-monitor-social-distancing-in-the-workplace/)\
