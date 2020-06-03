@@ -16,14 +16,14 @@ Jupyter notebook [here](https://github.com/jncnza/Social-Distancing-Monitor/blob
 ## Instalation
 
 ### Install dependencies
-#### Neccessary packages
+#### Essential packages
 * OpenCV\
         `conda install -c conda-forge opencv`
 * pandas\
         `conda install -c conda-forge pandas`
 * numpy\
         `conda install -c conda-forge numpy`
-#### Just for statistical visualizations
+#### Used for statistical visualizations
 * matplotlib\
         `conda install -c conda-forge matplotlib`
 * seaborn\
