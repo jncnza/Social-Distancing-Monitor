@@ -1,3 +1,8 @@
+# Author: Joan Conza Mondragón
+# Email: j.conza@pucp.pe
+# 2020
+
+
 # Import from local library
 from monitor import *
 
