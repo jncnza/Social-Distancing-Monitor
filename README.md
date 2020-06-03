@@ -37,7 +37,7 @@ Jupyter notebook [here](https://github.com/jncnza/Social-Distancing-Monitor/blob
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top
 
-### Run the project
+## Running the project
         python3 -i main.py
 Tested on Ubuntu 18.04 using Python 3.7.
 
