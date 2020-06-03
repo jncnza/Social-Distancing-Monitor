@@ -40,7 +40,7 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/Social-Distancin
 
 ### Run the project
         python3 -i main.py
-Tested on Ubuntu 18.04 using python 3.7.
+Tested on Ubuntu 18.04 using Python 3.7.
 
 ## Disclaimer
 This project does not try to measure the exact actual metric distance among people, but rather just serve as an estimation of safe distance compliance.
