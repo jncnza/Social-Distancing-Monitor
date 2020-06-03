@@ -4,6 +4,10 @@ In this project, computer vision techniques are employed to monitor compliance w
 [![Demonstration](/media/video.png)](https://www.youtube.com/watch?v=pm3YnYfA7as)
 [Demonstrative Jupyter notebook](https://github.com/jncnza/social-distance-detector/blob/master/notebook/social_distance_detector.ipynb)
 
+## Features
+* Analytics such as
+    - aea
+
 ## Instalation
 Tested on Ubuntu 18.04 using python 3.7
 ### Install dependencies
