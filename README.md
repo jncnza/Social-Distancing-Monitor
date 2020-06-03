@@ -12,6 +12,7 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/social-distance-
 * Identify persons at higher risk
 * Identify the time with the highest number of persons at risk
 * Visualize statistical graphics
+* Fast processing by multithreading
 
 ## Instalation
 Tested on Ubuntu 18.04 using python 3.7
