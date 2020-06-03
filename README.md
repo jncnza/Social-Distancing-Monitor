@@ -40,3 +40,4 @@ Tested on Ubuntu 18.04 using python 3.7
 
 ## Credits
 [pyimagesearch](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/)
+[Landing AI](https://landing.ai/landing-ai-creates-an-ai-tool-to-help-customers-monitor-social-distancing-in-the-workplace/)
