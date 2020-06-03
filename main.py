@@ -1,6 +1,8 @@
+#
 # Author: Joan Conza Mondragón
 # Email: j.conza@pucp.pe
-# 2020
+# https://github.com/jncnza
+#
 
 
 # Import from local library
