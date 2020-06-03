@@ -15,7 +15,7 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/social-distance-
 * Fast processing by employing multithreading
 
 ## Instalation
-Tested on Ubuntu 18.04 using python 3.7
+
 ### Install dependencies
 #### Neccesary packages
 * OpenCV
@@ -29,14 +29,18 @@ Tested on Ubuntu 18.04 using python 3.7
         `conda install -c conda-forge matplotlib`
 * seaborn
         `conda install -c conda-forge seaborn`
+
 ### Clone the repository
         git clone https://github.com/jncnza/social-distance-detector/
         cd social-distance-detector/
+
 ### Get the dataset
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top
+
 ### Run the project
         python3 -i main.py
+Tested on Ubuntu 18.04 using python 3.7
 
 ## Disclaimer
 This project does not to exactly measure the actual metric distance among people, but rather just serve as an estimation of safe distance compliance.
