@@ -1,4 +1,4 @@
-# social-distance-detector
+# Social Distance Monitor
 In this project, computer vision techniques are employed to monitor compliance with the social distance protocol. Additionaly, statistical data is recovered in order to obtain meaningful insights.
 
 [![Demonstration](/media/video.png)](https://www.youtube.com/watch?v=pm3YnYfA7as)
@@ -40,7 +40,7 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/social-distance-
 
 ### Run the project
         python3 -i main.py
-Tested on Ubuntu 18.04 using python 3.7
+Tested on Ubuntu 18.04 using python 3.7.
 
 ## Disclaimer
 This project does not to exactly measure the actual metric distance among people, but rather just serve as an estimation of safe distance compliance.
