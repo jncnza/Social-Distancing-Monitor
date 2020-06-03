@@ -12,7 +12,7 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/social-distance-
 * Identify persons at higher risk
 * Identify the time with the highest number of persons at risk
 * Visualize statistical graphics
-* Fast processing by multithreading
+* Fast processing by employing multithreading
 
 ## Instalation
 Tested on Ubuntu 18.04 using python 3.7
@@ -37,3 +37,6 @@ Tested on Ubuntu 18.04 using python 3.7
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top
 ### Run the project
         python3 -i main.py
+
+## Credits
+[pyimagesearch](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/)
