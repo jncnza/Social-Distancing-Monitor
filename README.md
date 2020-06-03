@@ -26,3 +26,4 @@ Tested on Ubuntu 18.04 using python 3.7
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentre-groundtruth.top
 ### Run the project
+        python3 -i main.py
