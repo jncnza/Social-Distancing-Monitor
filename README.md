@@ -17,17 +17,17 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/Social-Distancin
 ## Instalation
 
 ### Install dependencies
-#### Neccesary packages
-* OpenCV
+#### Neccessary packages
+* OpenCV\
         `conda install -c conda-forge opencv`
-* pandas
+* pandas\
         `conda install -c conda-forge pandas`
-* numpy
+* numpy\
         `conda install -c conda-forge numpy`
 #### Just for statistical visualizations
-* matplotlib
+* matplotlib\
         `conda install -c conda-forge matplotlib`
-* seaborn
+* seaborn\
         `conda install -c conda-forge seaborn`
 
 ### Clone the repository
