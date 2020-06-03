@@ -30,8 +30,8 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/Social-Distancin
         `conda install -c conda-forge seaborn`
 
 ### Clone the repository
-        git clone https://github.com/jncnza/social-distance-detector/
-        cd social-distance-detector/
+        git clone https://github.com/jncnza/Social-Distancing-Monitor
+        cd Social-Distancing-Monitor/
 
 ### Get the dataset
         !wget https://www.robots.ox.ac.uk/ActiveVision/Research/Projects/2009bbenfold_headpose/Datasets/TownCentreXVID.avi
