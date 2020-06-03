@@ -43,7 +43,7 @@ Demonstrative Jupyter notebook [here](https://github.com/jncnza/Social-Distancin
 Tested on Ubuntu 18.04 using python 3.7.
 
 ## Disclaimer
-This project does not to exactly measure the actual metric distance among people, but rather just serve as an estimation of safe distance compliance.
+This project does not try to measure the exact actual metric distance among people, but rather just serve as an estimation of safe distance compliance.
 
 ## Credits
 [pyimagesearch](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/)\
